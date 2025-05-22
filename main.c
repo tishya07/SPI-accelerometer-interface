@@ -1,8 +1,3 @@
-/*
- * ECE 153B - Spring 2023
- * Lab: 5A
- */
- 
 #include "stm32l476xx.h"
 #include "SPI.h"
 #include "UART.h"
